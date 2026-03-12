@@ -12,10 +12,10 @@ A lightweight, console-based traffic monitoring system developed in **C++**. Thi
    ```bash
    git clone https://github.com/poletteochoag-lab/car_counter.git
 
-## Compile the code
+ 2. **Compile the code
 
    ```bash
    g++ car_counter.cpp -o car_counter  
 
-   ```bash
+
    .\car_counter
